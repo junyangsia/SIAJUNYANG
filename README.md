@@ -21,6 +21,21 @@ This section showcases my learning progression and achievements in the Technolog
 
 ### 👉 [Click Here to View My TIS Assignments](./TIS/)
 
+# My Technology and Information System (SECP1513) Portfolio
+
+## 📂 Project Navigation & Reflection Summary
+| Assignment / Project | Link to Evidence | Reflection Summary (Gained & Improved) |
+| :--- | :--- | :--- |
+| **Visiting UTMDigital** | [View Vlog](./TIS/Visiting_UTM_Digital/) | Gained insights into IT infrastructure; improved technical video storytelling. |
+| **Industry Talk 1** | [View Folder](./TIS/Industry_Talk_1/) | Learned about SAP and Data Analytics; improved visual presentation skills. |
+| **Industry Talk 2** | [View Folder](./TIS/Industry_Talk_2/) | Understood professional project management; improved academic reporting. |
+| **Industry Talk Webinar** | [View Folder](./TIS/Industry_Talk_Webinar/) | (under processing) |
+| **PC Assemble Lab** | [View Folder](./TIS/PC_Assemble_Lab/) | Hands-on experience with hardware; improved system troubleshooting skills. |
+| **Design Thinking** | [View Folder](./TIS/Design_Thinking_Project/) | Mastered user-centric ideation; improved rapid prototyping speed. |
+
+---
+*Visit my [LinkedIn Profile](www.linkedin.com/in/sia-jun-yang-663a052b7) for professional networking.*
+
 ---
 
 ## 🌐 Connect with Me
