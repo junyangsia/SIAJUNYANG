@@ -1,7 +1,7 @@
 # Assignment 3: Academic Writing on Industry Talk 2
 
 ## 📸 Artifacts
-* **Academic Report:** [View Academic Writing Report](./TIS%20ASSIGNMENT%203)
+* **Academic Report:** [View Academic Writing Report](./TIS%20ASSIGNMENT%203.pdf)
 
 ---
 
