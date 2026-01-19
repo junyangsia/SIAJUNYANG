@@ -1,8 +1,8 @@
 # Assignment: Design Thinking Project
 
 ## 📸 Artifacts / Project Evidence
-* **Full Project Report:** [View Design Thinking Report](./Report%20Design%20Thinking.docx)
-* **Presentation Slides & Materials:** [View Slides and Presentation](./这里换成你Slide的文件名.pdf)
+* **Full Project Report:** [View Design Thinking Report](./Report%20Design%20Thinking.pdf)
+* **Presentation Slides & Materials:** [View Slides and Presentation](./Slide%20and%20Presentation%20Design%20Thinking.pdf)
 
 ---
 
