@@ -4,7 +4,4 @@
 * **Poster Evidence:**[Click to View Industry Talk 1 Poster](./TIS%20ASSIGNMENT%202.pdf)
 
 ## ✍️ Reflection
-Attending this talk on Data Analytics and SAP gave me a clear perspective on how big data and digital infrastructure are transforming modern industries.
-I gained a deeper understanding of how structured data systems allow companies to make smarter, data-driven decisions, and designing the poster helped me synthesize these complex concepts into an informative and attractive format.
-To improve in the future, I suggest including more real-life case studies of SAP implementation during the talk to better understand its practical challenges.
-In my opinion, mastering these analytical tools early in my degree will be a significant advantage for my future career, as ICT roles are essential for meaningful progress in any modern industry.
+"Participating in the ICT Career Talk was an eye-opening experience that highlighted how digital transformation and automation are reshaping modern industries. I gained a deeper understanding of the critical role cybersecurity plays in increasing company productivity and protecting data integrity. To better prepare for the evolving tech landscape, I plan to focus on mastering in-demand technical skills and staying updated on emerging security trends. In my opinion, as ICT continues to offer diverse career paths, a commitment to continuous learning is essential for any professional aiming to address real-world challenges in the technology sector.
