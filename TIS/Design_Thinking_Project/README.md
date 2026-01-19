@@ -2,7 +2,7 @@
 
 ## 📸 Artifacts / Project Evidence
 * **Full Project Report:** [View Design Thinking Report](./Report%20Design%20Thinking.pdf)
-* **Presentation Slides & Materials:** [View Slides and Presentation](./Slide%20and%20Presentation%20Design%20Thinking.pdf)
+* **Presentation Slides & Materials:** [View Slides and Presentation](https://www.canva.com/design/DAG-jxxrBvE/joKEnB0Tdh_38JWUvCIY2A/edit?utm_content=DAG-jxxrBvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
