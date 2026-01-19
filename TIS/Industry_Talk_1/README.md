@@ -1,7 +1,7 @@
 # Assignment 1: Poster on Industry Talk 1 (Data Analytics & SAP)
 
 ## 📸 Artifacts
-* **Poster Evidence:** [View Industry Talk 1 Poster](./TIS%20ASSIGNMENT%202.pdf)
+* **Poster Evidence:**[Click to View Industry Talk 1 Poster](./TIS%20ASSIGNMENT%202.pdf)
 
 ## ✍️ Reflection
 Attending this talk on Data Analytics and SAP gave me a clear perspective on how big data and digital infrastructure are transforming modern industries.
