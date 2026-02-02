@@ -29,7 +29,7 @@ This section showcases my learning progression and achievements in the Technolog
 | **Visiting UTMDigital** | [View Vlog](./TIS/Visiting_UTM_Digital/) | Gained insights into IT infrastructure; improved technical video storytelling. |
 | **Industry Talk 1** | [View Folder](./TIS/Industry_Talk_1/) | Learned about SAP and Data Analytics; improved visual presentation skills. |
 | **Industry Talk 2** | [View Folder](./TIS/Industry_Talk_2/) | Understood professional project management; improved academic reporting. |
-| **Industry Talk Webinar** | [View Folder](./TIS/Industry_Talk_Webinar/) | (under processing) |
+| **Industry Talk Webinar** | [View Folder](./TIS/Industry_Talk_Webinar/) | Explored how automation and cybersecurity drive productivity; aim to master in-demand skills for a diverse ICT career path. |
 | **PC Assemble Lab** | [View Folder](./TIS/PC_Assemble_Lab/) | Hands-on experience with hardware; improved system troubleshooting skills. |
 | **Design Thinking** | [View Folder](./TIS/Design_Thinking_Project/) | Mastered user-centric ideation; improved rapid prototyping speed. |
 
