@@ -1,7 +1,7 @@
 # Assignment 4: Industry Talk Webinar (ICT Jobs)
 
 ## 📸 Artifacts
-* **Poster 1:** [Clarity Techworks Talk](./_CLARITY%20TECHWORKS%20SDN%2BHD.pdf)
+* **Poster 1:** [Clarity Techworks Talk](./_CLARITY%20TECHWORKS%20SDN%20BHD.pdf)
 * **Poster 2:** [AirAsia Talk](./AIR%20ASIA.pdf)
 
 ---
