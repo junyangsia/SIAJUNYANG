@@ -16,7 +16,7 @@ This folder contains all the assignments and activities completed during Semeste
 * **Description:** An academic writing assignment based on the talk by Ts. Hj. Abdul Alim regarding industry standards in system development.
 * **Key Learning:** Insights into software life cycles and professional project management.
 
-### 4.[Industry Talk Webinar: ICT Jobs in Industry](./Industry_Webinar/)
+### 4.[Industry Talk Webinar: ICT Jobs in Industry](./Industry_Talk_Webinar/)
 * **Description:** Posters summarizing ICT job roles at Clarity Techworks and AirAsia.
 * **Key Learning:** Identifying career paths and required skills in the modern tech industry.
 
